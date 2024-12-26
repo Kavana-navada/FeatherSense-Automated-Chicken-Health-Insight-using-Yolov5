@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>photo_8_2023-01-14_00-03-32_jpg.rf.98d1b110cc3baa4cb7f5482fa571346f.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\photo_8_2023-01-14_00-03-32_jpg.rf.98d1b110cc3baa4cb7f5482fa571346f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>120</ymin>
+			<xmax>379</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

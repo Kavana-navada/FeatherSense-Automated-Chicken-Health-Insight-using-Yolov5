@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>WhatsApp Image 2024-10-05 at 21.13.08_a13a37ea.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\WhatsApp Image 2024-10-05 at 21.13.08_a13a37ea.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>701</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>71</ymin>
+			<xmax>637</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

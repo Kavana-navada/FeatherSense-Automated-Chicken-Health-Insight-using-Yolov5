@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>Cornish-cross-4_jpg.rf.8c9741514c8bbecfe5d1280e8fe71b12.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\Cornish-cross-4_jpg.rf.8c9741514c8bbecfe5d1280e8fe71b12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>92</ymin>
+			<xmax>401</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>22410316-7794335-Fast_food_chain_KFC_Waitrose_and_Nestle_have_all_already_signed_-a-48_1576939338085_jpg.rf.abfe50433199566d60bc78e7a575a268.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\22410316-7794335-Fast_food_chain_KFC_Waitrose_and_Nestle_have_all_already_signed_-a-48_1576939338085_jpg.rf.abfe50433199566d60bc78e7a575a268.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>121</ymin>
+			<xmax>450</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

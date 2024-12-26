@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>broiler-chicken-days-old-white-108157888_jpg.rf.0126c820e863a78b16c26b8599ef8a39.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\broiler-chicken-days-old-white-108157888_jpg.rf.0126c820e863a78b16c26b8599ef8a39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>148</ymin>
+			<xmax>333</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

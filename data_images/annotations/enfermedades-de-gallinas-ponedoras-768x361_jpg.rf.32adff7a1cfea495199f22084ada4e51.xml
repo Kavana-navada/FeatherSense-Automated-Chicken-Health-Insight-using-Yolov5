@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>enfermedades-de-gallinas-ponedoras-768x361_jpg.rf.32adff7a1cfea495199f22084ada4e51.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\enfermedades-de-gallinas-ponedoras-768x361_jpg.rf.32adff7a1cfea495199f22084ada4e51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>179</ymin>
+			<xmax>460</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>domestic (244).jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\domestic (244).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Not_a_Chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>56</ymin>
+			<xmax>188</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

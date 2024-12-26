@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>0_Pimlico-Farm-bald-chickenJPG_jpg.rf.08ee4b1143d2012c4779082c7d576f42.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\0_Pimlico-Farm-bald-chickenJPG_jpg.rf.08ee4b1143d2012c4779082c7d576f42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>111</ymin>
+			<xmax>293</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

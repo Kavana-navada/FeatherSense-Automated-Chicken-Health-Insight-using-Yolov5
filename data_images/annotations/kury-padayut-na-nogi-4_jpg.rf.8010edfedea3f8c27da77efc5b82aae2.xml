@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>kury-padayut-na-nogi-4_jpg.rf.8010edfedea3f8c27da77efc5b82aae2.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\kury-padayut-na-nogi-4_jpg.rf.8010edfedea3f8c27da77efc5b82aae2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>44</ymin>
+			<xmax>595</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

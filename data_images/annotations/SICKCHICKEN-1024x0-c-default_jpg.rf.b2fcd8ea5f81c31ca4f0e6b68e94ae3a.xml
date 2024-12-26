@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>SICKCHICKEN-1024x0-c-default_jpg.rf.b2fcd8ea5f81c31ca4f0e6b68e94ae3a.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\SICKCHICKEN-1024x0-c-default_jpg.rf.b2fcd8ea5f81c31ca4f0e6b68e94ae3a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>139</ymin>
+			<xmax>406</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

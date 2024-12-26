@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>1139.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\1139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>383</ymin>
+			<xmax>753</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>z (77).jpg</filename>
+	<path>E:\Yolo_chicken_health\1_datapreparation\data_images\z (77).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>268</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Not_a_Chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>2</ymin>
+			<xmax>260</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

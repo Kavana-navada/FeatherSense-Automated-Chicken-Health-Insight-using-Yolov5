@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>OIP-5HFnViDDFQRYyA3VFSwlsgAAAA.jpeg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\OIP-5HFnViDDFQRYyA3VFSwlsgAAAA.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Not_a_Chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>12</ymin>
+			<xmax>194</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>padezh-kur2_jpg.rf.bb460dfd9a93189f5fb0e5c1075b23f2.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\padezh-kur2_jpg.rf.bb460dfd9a93189f5fb0e5c1075b23f2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>92</ymin>
+			<xmax>590</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

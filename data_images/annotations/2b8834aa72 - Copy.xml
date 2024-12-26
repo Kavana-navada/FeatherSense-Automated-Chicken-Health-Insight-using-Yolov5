@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>2b8834aa72 - Copy.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\2b8834aa72 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Not_a_Chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>163</ymin>
+			<xmax>1529</xmax>
+			<ymax>1231</ymax>
+		</bndbox>
+	</object>
+</annotation>

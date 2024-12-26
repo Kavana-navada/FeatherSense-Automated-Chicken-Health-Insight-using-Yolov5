@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>lamechicken-500x0-c-default_jpg.rf.45bed5ff4438410a00ccc81d9ea6cb27.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\lamechicken-500x0-c-default_jpg.rf.45bed5ff4438410a00ccc81d9ea6cb27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>191</ymin>
+			<xmax>340</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

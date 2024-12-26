@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>Broiler_pilic_jpg.rf.f2d2e7b262902dfb6d84d93a18a5314e.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\Broiler_pilic_jpg.rf.f2d2e7b262902dfb6d84d93a18a5314e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>23</ymin>
+			<xmax>398</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

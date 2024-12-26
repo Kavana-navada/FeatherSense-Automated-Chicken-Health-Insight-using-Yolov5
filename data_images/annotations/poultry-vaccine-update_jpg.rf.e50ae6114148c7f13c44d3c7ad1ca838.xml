@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>poultry-vaccine-update_jpg.rf.e50ae6114148c7f13c44d3c7ad1ca838.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\poultry-vaccine-update_jpg.rf.e50ae6114148c7f13c44d3c7ad1ca838.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>56</ymin>
+			<xmax>299</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

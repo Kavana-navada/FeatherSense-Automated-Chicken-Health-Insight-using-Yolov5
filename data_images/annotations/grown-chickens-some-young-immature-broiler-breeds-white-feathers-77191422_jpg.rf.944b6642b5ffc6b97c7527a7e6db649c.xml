@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>grown-chickens-some-young-immature-broiler-breeds-white-feathers-77191422_jpg.rf.944b6642b5ffc6b97c7527a7e6db649c.jpg</filename>
+	<path>E:\Yolo_chicken_health\datapreparation\data_images\grown-chickens-some-young-immature-broiler-breeds-white-feathers-77191422_jpg.rf.944b6642b5ffc6b97c7527a7e6db649c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>43</ymin>
+			<xmax>245</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>
